@@ -1,0 +1,7 @@
+ollama
+ddgs
+trafilatura
+rich
+httpx
+fastapi
+uvicorn
